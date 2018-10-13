@@ -1,2 +1,0 @@
-gem install bundler
-sudo apt-get install ruby-railties

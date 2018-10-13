@@ -1,4 +1,0 @@
--	Uses Model-View-Controller framework.
--	Full stack framework.
--	Metaprogramming : Metaprogramming is a programming technique in which computer programs have the ability to treat programs as their data. It means that a program can be designed 	  to read, generate, analyse or transform other programs, and even modify itself while running.
--	Active Record : Rails introduces the Active Record framework, which saves objects into the database. The Rails version of the Active Record discovers the columns in a database 	schema and automatically attaches them to your domain objects using metaprogramming.
