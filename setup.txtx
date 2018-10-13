@@ -1,0 +1,5 @@
+rails new <Project Name>
+bundle install
+rails server
+
+rails generate controller Pages
